@@ -1,0 +1,11 @@
+Username=Student
+Password=1
+FirstName=Student1
+LastName=
+AccountType= 2
+* The following lines only apply to student accounts *
+Grade=9
+Math=1
+Science=1
+History=1
+English=1
